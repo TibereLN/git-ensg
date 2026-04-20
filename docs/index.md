@@ -9,7 +9,11 @@
 - de garder un historique de toutes les modifications faites
 - de partager des fichiers de manière publique ou privée
 - et bien plus encore
-- et voilà mon test
+
+- modification de Tibère argh
+>>>>>>> f8955526a7023795dbaa66df79891ac6c855e52c
+
+- et voilà mon test 
 
 **Git est un logiciel libre et open-source, qui ne repose pas sur un serveur centralisé**. Chaque personne d’un projet a donc sa propre copie du projet en local et peut être la référence pour les autres. Malgré tout, il est très fréquent d’utiliser un serveur intermédiaire comme Gitlab ou Github, qui sont des services d’hébergement de fichiers, et qui rendent le partage plus simple.
 
