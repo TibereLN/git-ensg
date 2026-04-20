@@ -29,7 +29,7 @@ Pour vérifier la bonne installation :
 ```bash
 git --version
 ```
-
+youpiiiiiiiiiiiiiiiiiii
 ### (Création d’un compte GitHub)
 
 Si vous n’avez pas encore de compte, c’est par ici : [Création de compte GitHub](https://github.com/signup)
