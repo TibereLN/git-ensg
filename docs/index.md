@@ -11,7 +11,6 @@
 - et bien plus encore
 
 - modification de Tibère argh
->>>>>>> f8955526a7023795dbaa66df79891ac6c855e52c
 
 - et voilà mon test 
 
